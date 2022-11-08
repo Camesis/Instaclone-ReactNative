@@ -4,7 +4,7 @@
 
 Projeto clone do instagram feito em React Native utilizando: Fomik, Yup e Firebase
 
-Este projeto levou aproximadamente 16hrs ao todo para ser concluído, pois foi desafiador e lever a sério todo o trabalho de manter o código limpo, afim de ser umprojeto de fácil leitura e uso para outros programadores.
+Este projeto levou aproximadamente 16hrs ao todo para ser concluído, pois foi desafiador e levei a sério todo o trabalho de manter o código limpo, afim de ter um projeto de fácil leitura e uso para outros programadores.
 <br><br>
 ![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
